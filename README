@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2320
+
+For writers.
+
+Write your document "WC:[0/5000]",
+and so,
+left number that is total char count of current editing file
+will be updated when you are saving file.
+
+Right number is free number space.
+For example,
+you use right number space to write max char count.
+
+
